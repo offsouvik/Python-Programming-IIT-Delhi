@@ -69,6 +69,6 @@ Include problem-wise documentation
 
 Author
 
-Souvik Saha
-Bachelor of Computer Applications (BCA)
+Souvik Saha,
+Bachelor of Computer Applications (BCA),
 Student at UPES,Uttrakhand.
